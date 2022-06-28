@@ -1,0 +1,7 @@
+Name:Kim Min Hyuk
+Student ID:2020315666
+Major:CS
+Sex:M
+GPA:4.0
+ID:aalsgur
+PW:1234
